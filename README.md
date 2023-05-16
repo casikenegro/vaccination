@@ -6,13 +6,6 @@ We got your back, the project already uses docker so you can build docker image
 3.  Run  `docker-compose up -d`  to setup local environment with Docker
 
 
-This setup will handle hot reloading, so any updates you make to the NestJS code will update the container in realtime.
-<!--[![Backers on Open Collective]😎(https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-
-[![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-
-  
-
 ## Description
 
   
